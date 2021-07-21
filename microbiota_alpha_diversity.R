@@ -15,7 +15,6 @@ outputDir <- "~/Documents/BARIA/baria/output"
 # relative abundance of species level
 comm <- speciePer
 
-# /Shannon/Simpson/invsimpson
 ## shannon Diversity Indices
 shannonSpecie <- diversity(comm, index="shannon")
 summary(shannonSpecie)

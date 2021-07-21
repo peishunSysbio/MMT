@@ -3,7 +3,7 @@
 # Author: Peishun Li, peishun@chalmers.se
 ################################################################
 library(vegan)
-library(dplyr)  #%>%
+library(dplyr) 
 library(ggplot2)
 library(extrafont)
 
