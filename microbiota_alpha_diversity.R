@@ -6,6 +6,9 @@ library(vegan)
 library(dplyr) 
 library(ggplot2)
 
+BARIA_wd <- "~/Documents/BARIA/baria"
+outputDir <- "~/Documents/BARIA/baria/output"
+
 ################################
 # calculate the alpha diversity
 ################################
