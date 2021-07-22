@@ -1,7 +1,5 @@
 ################################################################
-# Name: AUC.R
 # To-do: calculate incremental AUC and total AUC of MMT
-# Date: 27-8-2018
 # Author: Peishun Li, peishun@chalmers.se
 ################################################################
 AUC <- function(a,b){
